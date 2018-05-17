@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lexolordan/tp_diht/CPython/B/main.cpp
+iostream
+-
+A/index.h
+/Users/lexolordan/tp_diht/CPython/B/A/index.h
+
+A/index.h
+map
+-
+

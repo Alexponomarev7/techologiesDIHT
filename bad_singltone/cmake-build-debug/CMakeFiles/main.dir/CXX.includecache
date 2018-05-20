@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lexolordan/techologiesDIHT/bad_singltone/main.cpp
+iostream
+-
+single.h
+/Users/lexolordan/techologiesDIHT/bad_singltone/single.h
+
+/Users/lexolordan/techologiesDIHT/bad_singltone/single.h
+

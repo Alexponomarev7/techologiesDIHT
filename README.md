@@ -9,3 +9,4 @@
 
 ### Домашняя работа 34: cmake
 * [Сборка проекта](https://github.com/Alexponomarev7/techologiesDIHT/tree/master/cmake)
+* [std::vector::capacity](https://github.com/Alexponomarev7/techologiesDIHT/tree/master/vector)

@@ -5,7 +5,7 @@
 * [Скрипт](https://github.com/Alexponomarev7/techologiesDIHT/tree/master/git_script)
 
 ### Домашняя работа 32: Singleton
-* [Скрипт](https://github.com/Alexponomarev7/techologiesDIHT/tree/master/bad_singlton)
+* [Скрипт](https://github.com/Alexponomarev7/techologiesDIHT/tree/master/bad_singltone)
 
 ### Домашняя работа 33: Расшифровка LLVM
 * [Анализ LLVM](https://github.com/Alexponomarev7/techologiesDIHT/tree/master/llvm_decoder)
